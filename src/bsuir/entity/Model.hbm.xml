@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="bsuir.entity">
+    <class name="Model" table="model">
+        <id name="id" type="int" column="idModel">
+            <generator class="native"/>
+        </id>
+        <property name="name" column="model" type="string"/>
+        <property name="cargoSeats" column="seats" type="int"/>
+    </class>
+</hibernate-mapping>

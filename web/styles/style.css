@@ -1,0 +1,318 @@
+
+.list{
+     margin-left: 25px;
+
+}
+.leftlist{
+    margin-left: 50px;
+}
+h1,h2,h3,h4{
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+
+}
+h4{
+    font-size: 18px;
+    line-height: 15.4px;
+}
+h3{
+    font-size: 20px;
+    line-height: 15.4px;
+}
+h2{
+    font-size: 26px;
+    line-height: 15.4px;
+}
+h1 {
+    font-size: 30px;
+    line-height: 26.4px;
+}
+span{
+     font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+list.li{
+    margin: 5px;
+    
+}
+li{
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+small{
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+a.registration{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+a{
+    color: black;
+}
+.footer{
+    background-color: darkgrey;
+    font-size: 15px;
+}
+.navbar{
+    margin-bottom: 0px;
+}
+.content{
+    background-clip: content-box;
+    background-color: 	#F0F0F0;
+}
+body{
+    background-color: 	#ccc;
+}
+.marginforcarusel{ 
+    margin: 0px 45px 20px 45px;
+}
+.marginforh{
+    margin: 0px 45px 20px 45px;
+    padding-top: 18px;
+}
+ul.listfooter{
+    list-style-type: none;
+    margin: 20px;
+}
+.copyright{
+    margin-top: 55px;
+    font-size: 10px;
+
+}
+.sidebar{
+    padding: 0px;
+    background-color: lightgrey;
+}
+.supertext{
+    text-shadow: -1px -1px 1px black, 1px -1px 1px black, -1px 1px 1px black, 1px 1px 1px black;
+}
+.mysize{
+     width: 110px !important;
+}
+.search{
+    display: inline-block;
+    padding: 0px;
+}
+.filmcarusel{
+    border-bottom: 1px solid lightgrey;
+}
+.center{
+    padding: 0px;
+}
+.small{
+    margin: 0px;
+    padding: 0px;
+}
+.line{
+    border-bottom: 1px solid lightgrey;
+}
+.showlist{
+    margin-bottom: 15px;
+}
+
+.glyphicon-star {
+    font-size: 35px;
+    color: gold;
+}
+.glyphicon-star-empty{
+    font-size: 25px;
+    margin-top: 5px;
+    
+}
+.rateit{
+    display: inline-block;
+}
+.titlebar{
+    display: inline-block;
+    margin-left: 70px;
+}
+.title{
+    margin-bottom:15px;
+}
+.originaltitle{
+    margin-bottom:15px;
+}
+.rating{
+    display: inline-block;
+    float: right;
+    margin: 25px 70px 0px 0px;
+}
+.numrate{
+    font-size: 20px;
+}
+.butonrate{
+    display: inline-block;
+    float: right;
+    margin-left: 10px;
+
+}
+.fulnum{
+    display: inline-block;
+    padding-right: 10px;
+}
+.rate{
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+.colorrate{
+    background-color: gainsboro;
+}
+
+.subtext{
+    margin-left: 70px;
+    padding-bottom: 15px;
+}
+.numvote{
+    display: block;
+    margin: 0px;
+}
+.ratingsmall{
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.upbar{
+    background-color: lightgrey;
+}
+.row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display:         flex;
+}
+.carusel{
+    padding-left: 0px;
+}
+.caruselcontainer{
+    padding: 0px;
+}
+.postercontainer{
+    padding: 0px;
+}
+.poster{
+    max-width: 100%;
+}
+.description{
+    padding-left: 40px;
+}
+.desch{
+    margin-bottom: 20px; 
+}
+p{
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+.item{
+    display: inline-block;
+}
+ul.listfooter{
+    padding: 0;
+}
+.cast{
+    padding-left: 0;
+}
+.tablecast{
+    margin-bottom: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+.showcast{
+    margin-bottom: 10px;
+}
+.dark{
+    background-color: lightgrey;
+}
+.descline.reviewtext{
+    padding-bottom: 20px;
+}
+.lastreview{
+    border-bottom: 0px !important;
+}
+.personpic{
+    margin: 20px; 
+    padding: 0px;
+}
+.imgperson{
+    float: left;
+    margin-right: 20px;
+}
+h4.person{
+    margin-bottom: 0px;
+}
+div.description{
+    padding-bottom: 10px;
+}
+.img-center{
+    margin:0 auto;
+}
+.filmography{ 
+    padding-left: 0;
+}
+.personinfo{
+    padding-bottom: 10px;   
+}
+.titlereview{
+    margin: 0px;
+    padding: 0 30px; 
+}
+.reviewrating{
+    padding: 20px 0px;
+}
+.btnrate{
+    background-color: gray !important;
+    border-color: black;
+    display: inline-block;
+}
+.filmname{
+    padding-top: 20px;
+}
+.searchcontainer{
+    margin: 0px;
+    padding: 0 30px; 
+} 
+.cryteria{
+    padding-bottom: 20px;
+}
+label{
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+.chooser{
+    display: inline-block;
+}
+.btnsearch{
+    margin-bottom: 10px;
+}
+.btn.del{
+    margin-top: 12px;
+}

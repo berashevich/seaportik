@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="bsuir.entity">
+    <class name="Ship" table="ship">
+        <id name="id" type="string" column="idShip"/>
+        <many-to-one name="model" column="idModel" class="Model" not-null="true" lazy="false"/>
+    </class>
+</hibernate-mapping>
